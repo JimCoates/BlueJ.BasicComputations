@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShortCalculator
+comment1.params=x\ y
+comment1.target=short\ addition(int,\ int)
+comment2.params=x\ y
+comment2.target=short\ subtraction(int,\ int)
+comment3.params=x\ y
+comment3.target=short\ multiplication(int,\ int)
+comment4.params=x\ y
+comment4.target=short\ division(int,\ int)
+comment5.params=x\ y
+comment5.target=short\ remainder(int,\ int)
+numComments=6
